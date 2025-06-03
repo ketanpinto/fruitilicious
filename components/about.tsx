@@ -70,7 +70,7 @@ export function About() {
             </div>
             <div className="relative">
               <img
-                src="/placeholder.svg?height=400&width=500"
+                src="/image.png?height=400&width=500"
                 alt="Fruitilicious store interior"
                 className="rounded-xl shadow-lg w-full"
               />

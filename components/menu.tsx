@@ -40,22 +40,22 @@ export function Menu() {
     {
       name: "Exotic Fruit Salad",
       description: "A colorful mix of seasonal exotic fruits",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/fruitsalad.jpg?height=200&width=200",
     },
     {
       name: "Apple Beetroot Carrot Juice",
       description: "Nutritious blend packed with vitamins",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/applebeetcarrotjuice.jpg?height=200&width=200",
     },
     {
-      name: "Chikoo Banana Date Smoothie",
-      description: "Creamy and naturally sweet smoothie",
-      image: "/placeholder.svg?height=200&width=200",
+      name: "Cucumber with Mint Juice",
+      description: "Creamy and naturally refreshing smoothie",
+      image: "/cucumbersmoothie.jpg?height=200&width=200",
     },
     {
-      name: "Kiwi Dragon Fruit Bowl",
+      name: "Sprouts Bowl",
       description: "Instagram-worthy healthy bowl",
-      image: "/placeholder.svg?height=200&width=200",
+      image: "/sproutsbowl.jpg?height=200&width=200",
     },
   ]
 
